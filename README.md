@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Minenhle Mngomezulu
+https://lnkd.in/dAfcCBF4
 
 🎓 Final-year Business Management student  
 📊 Certified Business Analyst | IBM Data Science (in progress)  
@@ -22,12 +23,12 @@
 ### 🧹 **Reseller Data Cleaning – Adventure Works**  
 Standardized and cleaned a messy dataset using Excel functions and logic.  
 ✅ Removed extra spaces, corrected text cases, and optimized field structures.  
-🔗 [View Project](https://github.com/Minenhle26/adventureworks-data-cleaning) *(update link if needed)*
+
 
 ### 📦 **Inventory SOP – Hitachi**  
 Created and documented a Standard Operating Procedure (SOP) to improve order processing and inventory control.  
 ✅ SOP is still used across branches.  
-📄 *(Upload and link to PDF/DOC once available)*
+
 
 ---
 
@@ -42,8 +43,8 @@ Created and documented a Standard Operating Procedure (SOP) to improve order pro
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/minenhle-mngomezulu)  
-📧 Email: yourname@example.com *(replace with your real email)*
+[![LinkedIn]www.linkedin.com/in/minenhle-mngomezulu-396608176  
+📧 Email: pertuniaminenhle@gmail.com *(replace with your real email)*
 
 ---
 
