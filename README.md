@@ -44,7 +44,7 @@ Created and documented a Standard Operating Procedure (SOP) to improve order pro
 ## 📬 Connect with Me
 
 [![LinkedIn]www.linkedin.com/in/minenhle-mngomezulu-396608176  
-📧 Email: pertuniaminenhle@gmail.com *(replace with your real email)*
+📧 Email: pertuniaminenhle@gmail.com 
 
 ---
 
