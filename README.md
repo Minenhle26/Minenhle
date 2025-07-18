@@ -35,9 +35,15 @@ Created and documented a Standard Operating Procedure (SOP) to improve order pro
 ## 📚 Certifications
 
 - ✅ Microsoft Business Analyst Professional Certificate  
-- 🎓 IBM Data Science Certificate *(In Progress)*  
+- 🎓 Data Science Certificate *(In Progress)*
+- 🎓 Diploma in Business Management *(In Progress)*
 - 🗂 Introduction to Project Management – NSG  
-- 📈 Strategic Planning & Business Analysis  
+- 📈 Introduction to Strategic Planning and Management Certificate - NSG
+- 🎓 Business Planning and Analysis Diploma - Adams Academy
+- 🗂 Operations Management Framework Certificate - NSG
+- 📈 Computer Literacy - MICT SETA
+- 🎓Grade 12 (Matric)
+  
 
 ---
 
