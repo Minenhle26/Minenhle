@@ -56,6 +56,14 @@ Optimized the parts request and ordering process during my internship at Hitachi
 - 🗂 Operations Management Framework Certificate - NSG
 - 📈 Computer Literacy - MICT SETA
 - 🎓Grade 12 (Matric)
+
+- 📊 Sharpen my skills in **Business Analysis** and **Data Analytics**
+- 📈 Master tools like **Power BI**, **Microsoft Excel (Advanced)**, and **SQL**
+- 🧠 Complete my **Data Science Certificate (IBM)** and **Business Management Diploma**
+- ⚙️ Learn more about **Microsoft Visio**, **Power Apps**, and **Azure DevOps**
+- 🧩 Build a strong portfolio with real-world projects (sales, operations, and finance data)
+- 🤝 Collaborate with others on GitHub and contribute to open-source
+- 💼 Transition into a **Data Analyst / Business Analyst** role in a tech-driven company
   
 
 ---
