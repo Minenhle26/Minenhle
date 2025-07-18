@@ -12,10 +12,13 @@ https://lnkd.in/dAfcCBF4
 - Excel, Power BI, Power Apps  
 - SQL (basic), Data Cleaning & Analysis  
 - Microsoft Dynamics 365, Global e-System  
-- Business Process Mapping  
-- Standard Operating Procedures (SOPs)  
-- Inventory & Stock Control  
-
+- Business Analysis & Reporting
+- Sales Order Processing & CRM Management
+- Power BI Dashboards & KPI Monitoring
+- Documentation & Workflow Improvement
+- Project Administration & Procurement Analysis
+- Inventory Control & Stock Reconciliation
+- Procurement Planning & Supplier Management
 ---
 
 ## 📁 Featured Projects
