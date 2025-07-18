@@ -4,8 +4,11 @@ https://lnkd.in/dAfcCBF4
 🎯 Business & Sales Operations | Business Analyst | Data Enthusiast
 
 🌍 Based in South Africa💼 Passionate about transforming data into business insight
+
 📊 Skilled in Microsoft Excel (Advanced), Power BI, Dynamics 365, Power Apps, Azure DevOps
+
 📦 Experienced in inventory control, order fulfillment, and process optimization
+
 📈 Constant learner, driven by impact and innovation
 
 ---
