@@ -49,12 +49,12 @@ Optimized the parts request and ordering process during my internship at Hitachi
 - ✅ Microsoft Business Analyst Professional Certificate  
 - 🎓 Data Science Certificate *(In Progress)*
 - 🎓 Diploma in Business Management *(In Progress)*
-- 🗂 Introduction to Project Management – NSG  
-- 📈 Introduction to Strategic Planning and Management Certificate - NSG
+- 🗂 Introduction to Project Management – National School of Government  
+- 🗂 Introduction to Strategic Planning and Management Certificate - National School of Government  
 - 🎓 Business Planning and Analysis Diploma - Adams Academy
-- 🗂 Operations Management Framework Certificate - NSG
+- 🗂 Operations Management Framework Certificate - National School of Government
 - 📈 Computer Literacy - MICT SETA
-- 🎓Grade 12 (Matric)
+- 🎓 Grade 12 (Matric)
 
 ---
 
