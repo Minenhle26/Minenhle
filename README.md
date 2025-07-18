@@ -29,7 +29,7 @@ https://lnkd.in/dAfcCBF4
 - Procurement Planning & Supplier Management
 ---
 
-##💡 **Projects & Highlights**
+**##💡 Projects & Highlights**
 
 📊 **Sales Performance Dashboard**
 
