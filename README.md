@@ -1,9 +1,12 @@
 # 👋 Hi there, I'm Minenhle Mngomezulu
 https://lnkd.in/dAfcCBF4
 
-💼 Experienced Sales Coordinator 
-📊 Certified Business Analyst | Data Science (in progress)  
-💼 Internship experience in Inventory & Logistics at Hitachi Construction Machinery
+🎯 Business & Sales Operations | Business Analyst | Data Enthusiast
+
+🌍 Based in South Africa💼 Passionate about transforming data into business insight
+📊 Skilled in Microsoft Excel (Advanced), Power BI, Dynamics 365, Power Apps, Azure DevOps
+📦 Experienced in inventory control, order fulfillment, and process optimization
+📈 Constant learner, driven by impact and innovation
 
 ---
 
@@ -21,17 +24,16 @@ https://lnkd.in/dAfcCBF4
 - Procurement Planning & Supplier Management
 ---
 
-## 📁 Featured Projects
+💡 Projects & Highlights
 
-### 🧹 **Reseller Data Cleaning – Adventure Works**  
-Standardized and cleaned a messy dataset using Excel functions and logic.  
-✅ Removed extra spaces, corrected text cases, and optimized field structures.  
+📊 Sales Performance Dashboard
+Created an interactive dashboard using Excel with pivot tables, slicers, and charts to analyze sales trends and performance.
 
+🧾 Operations SOP for Hitachi
+Developed a Standard Operating Procedure that improved operational efficiency and is now used across multiple branches.
 
-### 📦 **Inventory SOP – Hitachi**  
-Created and documented a Standard Operating Procedure (SOP) to improve order processing and inventory control.  
-✅ SOP is still used across branches.  
-
+📦 Parts Inventory Control
+Optimized the parts request and ordering process during my internship at Hitachi Construction Machinery.
 
 ---
 
