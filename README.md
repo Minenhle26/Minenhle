@@ -26,15 +26,15 @@ https://lnkd.in/dAfcCBF4
 
 💡 Projects & Highlights
 
-📊 Sales Performance Dashboard
+📊 **Sales Performance Dashboard**
 
 Created an interactive dashboard using Excel with pivot tables, slicers, and charts to analyze sales trends and performance.
 
-🧾 Operations SOP for Hitachi
+🧾 **Operations SOP for Hitachi**
 
 Developed a Standard Operating Procedure that improved operational efficiency and is now used across multiple branches.
 
-📦 Parts Inventory Control
+📦 **Parts Inventory Control**
 
 Optimized the parts request and ordering process during my internship at Hitachi Construction Machinery.
 
