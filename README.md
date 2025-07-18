@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Minenhle Mngomezulu
-https://lnkd.in/dAfcCBF4
 
   🎯 **Business & Sales Operations | Business Analyst | Data Enthusiast**
 
