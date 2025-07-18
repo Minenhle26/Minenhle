@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Minenhle Mngomezulu
 https://lnkd.in/dAfcCBF4
 
-🎓 Final-year Business Management student  
-📊 Certified Business Analyst | IBM Data Science (in progress)  
+💼 Experienced Sales Coordinator 
+📊 Certified Business Analyst | Data Science (in progress)  
 💼 Internship experience in Inventory & Logistics at Hitachi Construction Machinery
 
 ---
